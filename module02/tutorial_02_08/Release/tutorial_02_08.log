@@ -1,0 +1,17 @@
+﻿  cylinder.cpp
+  source.cpp
+..\source.cpp(283): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\source.cpp(405): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\source.cpp(406): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\source.cpp(410): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\source.cpp(411): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\source.cpp(413): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\source.cpp(414): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  staticMesh3D.cpp
+  vertexBufferObject.cpp
+  Generating code
+  All 497 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  tutorial_02_08.vcxproj -> C:\Users\Noah\Desktop\SNHU\CS330\OpenGL-Milestone\Release\3D Scene.exe
+  C:\Users\Noah\Desktop\SNHU\CS330\OpenGL-Milestone\bin\glew-2.2.0\Release\x64\glew32.dll
+  1 File(s) copied

@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (2 Right Triangles.vcxproj, 3D Object.vcxproj, tutorial_02_08.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  tutorial_02_08.vcxproj -> C:\Users\Noah\Desktop\SNHU\CS330\OpenGL-Milestone\Debug\3D Scene.exe
+  tutorial_02_08.vcxproj -> C:\Users\Noah\Desktop\SNHU\CS330\OpenGL-Milestone\Debug\3D Scene.pdb (Partial PDB)
+  C:\Users\Noah\Desktop\SNHU\CS330\OpenGL-Milestone\bin\glew-2.2.0\Release\x64\glew32.dll
+  1 File(s) copied
